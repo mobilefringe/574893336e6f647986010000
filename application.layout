@@ -87,9 +87,9 @@
                     <a href="http://twitter.com/RivPlaza" target="_blank">
                         <span id="social_twitter"></span>
                     </a>
-                    <a href="#" target="_blank">
-                        <span id="social_pinterest"></span>
-                    </a>
+                    <!--<a href="#" target="_blank">-->
+                    <!--    <span id="social_pinterest"></span>-->
+                    <!--</a>-->
                     <a href="https://www.instagram.com/ShopRiversidePlaza/" target="_blank">
                         <span id="social_insta"></span>
                     </a>
