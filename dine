@@ -89,14 +89,12 @@
     
     function renderPage(){
         var stores = [];
-        var s1 = getStoresListByCategoryID(4035)
-        var s2 = getStoresListByCategoryID(4024)
-        var s3 = getStoresListByCategoryID(4042)
-        var s4 = getStoresListByCategoryID(4044)
+        var s1 = getStoresListByCategoryID(4266)
+        var s2 = getStoresListByCategoryID(4267)
+   
         stores = stores.concat(s1)
         stores = stores.concat(s2)
-        stores = stores.concat(s3)
-        stores = stores.concat(s4)
+     
         var newarr = [];
         var unique = {};
         $.each(stores, function(i,v){
