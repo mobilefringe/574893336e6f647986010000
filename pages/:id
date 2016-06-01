@@ -27,13 +27,13 @@
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         if (slug == "riverside-privacy-policy"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574dc4206e6f64350c000000/image/jpeg/undefined/cstc_440x1200_side_couple.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_440x1200_side_events.jpg")
         }
        if (slug == "riverside-services"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574dc4206e6f64350c000000/image/jpeg/undefined/cstc_440x1200_side_couple.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_440x1200_side_dress.jpg")
         }
         if (slug == "riverside-contact-us"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574dc4206e6f64350c000000/image/jpeg/undefined/cstc_440x1200_side_glasses.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_440x1200_side_coffee.jpg")
         }
         
         prefix = get_prefix();
