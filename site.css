@@ -30,7 +30,7 @@ $animation_color: #82763E;
 }
 
 .jobs_banner{
-    background-image: url(http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/dgvr_1920x150_banner_dine.jpg);
+    background-image: url(http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_1920x150_banner_door.jpg);
 }
 
 .location_banner{
@@ -38,15 +38,15 @@ $animation_color: #82763E;
 }
 
 
-.district-services{
-    background-image: url(http://assets.codecloudapp.com/sites/57472d206e6f644797020000/image/jpeg/undefined/dtl_1920x150_banner_services.jpg);
+.riverside-services{
+    background-image: url(http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_1920x150_banner_door.jpg);
 }
 
-.district-contact-us{
-    background-image: url(http://assets.codecloudapp.com/sites/57472d206e6f644797020000/image/jpeg/undefined/dtl_1920x150_banner_contact.jpg);
+.riverside-contact-us{
+    background-image: url(http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_1920x150_banner_events.jpg);
 }
-.district-privacy-policy{
-    background-image: url(http://assets.codecloudapp.com/sites/57472d206e6f644797020000/image/jpeg/undefined/dtl_1920x150_banner_privacy.jpg);
+.riverside-privacy-policy{
+    background-image: url(http://assets.codecloudapp.com/sites/574893336e6f647986010000/image/jpeg/undefined/rp_1920x150_banner_father.jpg);
 }
 
 
