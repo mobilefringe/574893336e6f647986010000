@@ -13,7 +13,7 @@
                     <a class="side_link" style="{{phone_show}}" href="tel:{{phone}}">{{phone}}</a>
                     <p class="colored_link" style="">Address</p>
                     <p class="side_link">
-                        3639 Riverside Plaza Dr., Suite 502 Riverside, CA 92506 
+                        3639 Riverside Plaza Dr. Riverside, CA 92506 
                     </p>
                     <a class="main_btn animated_btn" href="{{website}}" target="_blank" style="{{show}}">Visit Website</a>
                 </div>
