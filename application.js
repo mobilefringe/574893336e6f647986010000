@@ -542,7 +542,7 @@ function renderHours(container, template, collection){
         // val.close_time = convert_hour(close_time);    
         // val.hour = val.open_time+ " - " + val.close_time;
         
-        var d - moment();
+        var d = moment();
         var open_time = moment(val.open_time).tz(getPropertyTimeZone());
         var close_time = moment(val.close_time).tz(getPropertyTimeZone());
         val.hour = open_time.format("h:mma") + " - " + close_time.format("h:mma");
