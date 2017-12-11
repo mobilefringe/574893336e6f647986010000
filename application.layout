@@ -165,7 +165,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 Riverside Plaza
+                &copy; Copyright 2016 Riverside Plaza
             </p>
             <p class="footer_text">
                 3639 Riverside Plaza Dr. Riverside, CA 92506 
@@ -182,7 +182,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2017 Riverside Plaza
+                    &copy; Copyright 2017 Riverside Plaza
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
