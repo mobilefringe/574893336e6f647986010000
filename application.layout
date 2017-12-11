@@ -165,7 +165,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                &copy; Copyright 2016 Riverside Plaza
+                &copy; Copyright <span id="current_year" class="current_year"></span> Riverside Plaza
             </p>
             <p class="footer_text">
                 3639 Riverside Plaza Dr. Riverside, CA 92506 
