@@ -55,7 +55,7 @@
     
     <!-- Site data -->
     <script>
-    $.getJSON("//pico.mallmaverick.com/api/v4/pico/subcategories.json?bust=true").done(function(data){
+        $.getJSON("//pico.mallmaverick.com/api/v4/pico/subcategories.json?bust=true").done(function(data){
             
         });
         setEndPoint('//riverside.mallmaverick.com/api/v4/riverside/all.json');
