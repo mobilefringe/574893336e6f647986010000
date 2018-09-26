@@ -7,7 +7,7 @@
 <div class="main_container mobile_padding">
     <div class="details_row">
         <div class="details_col_3 hidden_phone">
-            <img src="//codecloud.cdn.speedyrails.net/sites/57f50a1b6e6f6426d2010000/image/jpeg/undefined/rsb_440x1200_side_events.jpg" />
+            <img src="//codecloud.cdn.speedyrails.net/sites/5b5e7efc6e6f644fb87f0000/image/jpeg/undefined/rp_1920x150_banner_events.jpg" />
         </div>
         <div class="details_col_9" id="contest_details_container">
             <script id="contest_details_template" type="x-tmpl-mustache/text">
